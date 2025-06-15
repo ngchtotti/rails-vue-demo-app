@@ -1,3 +1,5 @@
+フォークしました．
+
 # Rails + Vite + Vue + Pina Demo App
 
 ### This repo is no longer maintained 
